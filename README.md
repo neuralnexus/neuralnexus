@@ -1,4 +1,4 @@
-## Hi there 🐨 
+## Hello World! 
 
 <!--
 <a href="https://github.com/neuralnexus/neuralnexus">
