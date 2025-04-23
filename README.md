@@ -1,10 +1,8 @@
-## Hello World! 
+              _   _      _____                   
+  /\/\   __ _| |_| |_    \_   \__   ____ _ _ __  
+ /    \ / _` | __| __|    / /\/\ \ / / _` | '_ \ 
+/ /\/\ \ (_| | |_| |_  /\/ /_   \ V / (_| | | | |
+\/    \/\__,_|\__|\__| \____/    \_/ \__,_|_| |_|
+                                                 
 
-<!--
-<a href="https://github.com/neuralnexus/neuralnexus">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neuralnexus/neuralnexus/main/profile_render_dark.svg">
-  </picture>
-</a>
 
--->
